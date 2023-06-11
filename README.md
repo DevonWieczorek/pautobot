@@ -1,5 +1,4 @@
 <p align="center">
-  <img alt="PAutoBot" style="width: 128px; max-width: 100%; height: auto;" src="./docs/pautobot.png"/>
   <h1 align="center">🔥 PⒶutoBot 🔥</h1>
   <p align="center" style="font-size:18px"><b>Private AutoGPT Robot</b> - Your private task assistant with GPT!</p>
 </p>
@@ -9,8 +8,6 @@
 - 🔥 **Automate tasks** easily with **PAutoBot plugins**. Easy for everyone.
 - 🔥 **Easy coding structure** with **Next.js** and **Python**. Easy to understand and modify.
 - 🔥 **Built with** [LangChain](https://github.com/hwchase17/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), [Chroma](https://www.trychroma.com/), [SentenceTransformers](https://www.sbert.net/), [PrivateGPT](https://github.com/imartinez/privateGPT).
-
-![PAutoBot](./docs/screenshot.png)
 
 **The supported extensions are:**
 
